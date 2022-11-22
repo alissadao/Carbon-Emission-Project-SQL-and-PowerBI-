@@ -1,5 +1,8 @@
 # Carbon Emission Project SQL and PowerBI
-***In this project, I will analyze and visualize my database using SQL and PowerBi.***
+***In this project, I will analyze and visualize my dataset using SQL and PowerBi.***
+***I will use this dataset to discover some aspects: America's highest and lowest amount of carbon emission by Year, the country with the most significant and most downward emissions per capital in 2017 compared to the changes of emissions per capital in 1975,...***
+
+# [View my dashboard](https://app.powerbi.com/reportEmbed?reportId=e4a54f5a-7b0d-4125-af48-fac183834e01&autoAuth=true&ctid=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
 ## 1. About the project: 
 ###### a. Some highlighted features that I will use when I work with SQL: 
